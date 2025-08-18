@@ -73,7 +73,6 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 # 🎥 **Demo Videos**
 
 ## **Python Graduation System Demo**
-[![Python Graduation System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
 
 **Watch the full demo**: [Python Graduation System - Full Demo](https://youtu.be/5AKrDObYgSY)
 
@@ -82,9 +81,8 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 ---
 
 ## **Flutter QR Scanner Demo**
-[![Flutter QR Scanner Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
 
-**Watch the full demo**: [Flutter QR Scanner - Full Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
+**Watch the full demo**: [Flutter QR Scanner - Full Demo](https://youtube.com/shorts/IslCt-x5fEM)
 
 *This video showcases the mobile QR scanner app in action, demonstrating real-time QR code scanning, student information retrieval, and the cross-platform user experience.*
 
