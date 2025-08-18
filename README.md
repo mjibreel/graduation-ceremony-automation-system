@@ -86,33 +86,6 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 *This video showcases the mobile QR scanner app in action, demonstrating real-time QR code scanning, student information retrieval, and the cross-platform user experience.*
 
----
-
-# 🌟 **Skills Demonstrated**
-
-## **Full-Stack Development**
-- **Backend Systems**: Python, SQLite, API integration
-- **Frontend Applications**: Flutter, cross-platform development
-- **Database Design**: Relational databases, custom ORM
-- **System Architecture**: Large-scale application design
-
-## **Programming Languages & Frameworks**
-- **Python**: Advanced Python development, GUI programming
-- **Dart/Flutter**: Modern mobile app development
-- **SQL**: Database design and optimization
-- **JavaScript/HTML**: Web platform support
-
-## **Software Engineering**
-- **System Design**: Complex application architecture
-- **API Integration**: Multiple cloud service integrations
-- **User Experience**: Intuitive interface design
-- **Code Quality**: Clean, maintainable, production-ready code
-
-## **DevOps & Tools**
-- **Version Control**: Git, GitHub workflow
-- **Cross-platform Testing**: Multiple OS and device support
-- **Documentation**: Comprehensive setup and usage guides
-- **Deployment**: Desktop and mobile app distribution
 
 ---
 
@@ -132,40 +105,8 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ---
 
-# 🎯 **Business Value**
+## 👨‍💻 Author
 
-Both projects demonstrate the ability to:
-- **Automate Complex Processes**: Streamline graduation ceremonies
-- **Handle Large Datasets**: Manage thousands of student records
-- **Create User-friendly Interfaces**: Intuitive user experiences
-- **Build Scalable Systems**: Architecture that grows with needs
-- **Integrate Multiple Services**: Cloud APIs and local systems
-- **Deliver Cross-platform Solutions**: Reach users on any device
-
----
-
-# **How to Use**
-
-## **Python Graduation System**
-1. Install Python 3.x and required dependencies
-2. Run `python graduation_system_amazon.py` or `graduation_system_google.py`
-3. Import student data and photos
-4. Generate QR codes and run graduation ceremonies
-
-## **Flutter QR Scanner**
-1. Install Flutter SDK
-2. Clone the repository and run `flutter pub get`
-3. Connect a device or emulator
-4. Run `flutter run` to launch the app
-
----
-
-This portfolio showcases you as a **versatile software engineer** capable of building both **enterprise-level desktop applications** and **modern mobile solutions**, with expertise in **full-stack development**, **system architecture**, and **user experience design**. 🚀
-
----
-
-**Note**: Replace `YOUR_VIDEO_ID_1` and `YOUR_VIDEO_ID_2` with your actual YouTube video IDs when you upload the demo videos.
-
----
-
-*Built with ❤️ for educational institutions*
+**Mohamed Hassan Jibril**
+- **GitHub:** [mjibreel](https://github.com/mjibreel)
+- **LinkedIn:** [moh-jibril](https://www.linkedin.com/in/moh-jibril)
