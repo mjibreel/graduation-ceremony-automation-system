@@ -39,10 +39,12 @@ A comprehensive **university graduation ceremony management system** built with 
 
 A modern **mobile QR code scanner application** designed specifically for graduation ceremonies, enabling instant student verification and information retrieval.
 
+
 ### 🚀 **Core Features**
 
 #### QR Code Scanning
 - **Real-time Detection**: Camera-based QR code scanning
+- **Honeywell Hardware Integration**: Native physical scanner button support
 - **Instant Results**: Immediate student information display
 - **Offline Support**: Works without internet connection
 - **Cross-platform**: iOS, Android, Web, and Desktop support
@@ -50,8 +52,9 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 #### Student Information System
 - **Quick Lookup**: Instant student data retrieval
 - **Photo Display**: Student photo viewing capabilities
-- **Database Sync**: GitHub-based database synchronization
+- **Supabase Cloud Sync**: Real-time database synchronization with Supabase
 - **Search Functionality**: Manual student ID input option
+- **Database Management**: SQLite with 2,400+ student records
 
 #### Modern Mobile Experience
 - **Responsive Design**: Adaptive UI for all screen sizes
@@ -62,11 +65,14 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 ### 🛠️ **Technical Architecture**
 
 - **Frontend**: Flutter with Dart programming language
-- **Database**: SQLite with custom helper classes
+- **Database**: SQLite with custom helper classes + Supabase cloud sync
+- **Hardware Integration**: Honeywell Data Collection library with physical scanner support
 - **Camera Integration**: mobile_scanner plugin for QR detection
+- **Cloud Services**: Supabase for real-time database synchronization
 - **Platform Support**: iOS, Android, Web, macOS, Windows
 - **State Management**: Flutter StatefulWidget patterns
-- **Code Quality**: 800+ lines of clean, maintainable code
+- **Code Quality**: 870+ lines of clean, production-ready code
+- **APK Size**: Optimized release build (33.1MB)
 
 ---
 
@@ -98,10 +104,12 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 - **Platform Support**: Windows, macOS, Linux
 
 ## **Flutter QR Scanner**
-- **Lines of Code**: 800+ lines
+- **Lines of Code**: 870+ lines
 - **Platform Support**: 5+ platforms (iOS, Android, Web, macOS, Windows)
-- **Dependencies**: 10+ Flutter packages
+- **Dependencies**: 7 Flutter packages + Honeywell hardware SDK
 - **Architecture**: Clean, scalable code structure
+- **Hardware Support**: Honeywell mobile scanner integration
+- **Cloud Integration**: Supabase real-time sync
 
 ---
 
