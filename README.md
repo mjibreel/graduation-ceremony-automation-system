@@ -46,7 +46,6 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 - **Real-time Detection**: Camera-based QR code scanning
 - **Honeywell Hardware Integration**: Native physical scanner button support
 - **Instant Results**: Immediate student information display
-- **Offline Support**: Works without internet connection
 - **Cross-platform**: iOS, Android, Web, and Desktop support
 
 #### Student Information System
@@ -54,18 +53,17 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 - **Photo Display**: Student photo viewing capabilities
 - **Supabase Cloud Sync**: Real-time database synchronization with Supabase
 - **Search Functionality**: Manual student ID input option
-- **Database Management**: SQLite with 2,400+ student records
+- **Database Management**: Supabase with 2,400+ student records
 
 #### Modern Mobile Experience
 - **Responsive Design**: Adaptive UI for all screen sizes
-- **Dark/Light Mode**: Theme support for different preferences
 - **Performance Optimized**: Fast scanning and data retrieval
 - **User-friendly Interface**: Intuitive navigation and controls
 
 ### 🛠️ **Technical Architecture**
 
 - **Frontend**: Flutter with Dart programming language
-- **Database**: SQLite with custom helper classes + Supabase cloud sync
+- **Database**: Supabase cloud sync
 - **Hardware Integration**: Honeywell Data Collection library with physical scanner support
 - **Camera Integration**: mobile_scanner plugin for QR detection
 - **Cloud Services**: Supabase for real-time database synchronization
@@ -105,7 +103,7 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ## **Flutter QR Scanner**
 - **Lines of Code**: 870+ lines
-- **Platform Support**: 5+ platforms (iOS, Android, Web, macOS, Windows)
+- **Platform Support**: platforms (iOS, Android, Web)
 - **Dependencies**: 7 Flutter packages + Honeywell hardware SDK
 - **Architecture**: Clean, scalable code structure
 - **Hardware Support**: Honeywell mobile scanner integration
