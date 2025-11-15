@@ -94,8 +94,9 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 **Read the full article**: [City University Malaysia created history, organized the first convocation in Malaysia using AI ](https://shorturl.at/RNUq6)
 
 ## **CITY UNIVERSITY CONVOCATION 2024 **
-**Watch the full video**: [CITY UNIVERSITY CONVOCATION 2024 - part 1 ](https://www.youtube.com/watch?v=aX2ulAyKuJw&t=10525s)
-**Watch the full video**: [CITY UNIVERSITY CONVOCATION 2024 - part 2 ](https://www.youtube.com/watch?v=YIDKewB0SVo&t=5609s)
+[CITY UNIVERSITY CONVOCATION 2024 - part 1 ](https://www.youtube.com/watch?v=aX2ulAyKuJw&t=10525s)
+
+[CITY UNIVERSITY CONVOCATION 2024 - part 2 ](https://www.youtube.com/watch?v=YIDKewB0SVo&t=5609s)
 
 ---
 
