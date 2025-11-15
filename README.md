@@ -76,19 +76,22 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 # 🎥 **Demo Videos**
 
-## **Python Graduation System Demo**
+## **AI-powered Graduation Ceremony Management System**
 
-**Watch the full demo**: [Python Graduation System - Full Demo](https://youtu.be/5AKrDObYgSY)
+**Watch the full demo***: [AI-powered Graduation Ceremony Management System]([https://youtu.be/5AKrDObYgSY](https://youtu.be/1GsUPD9f3OQ))
 
 *This video demonstrates the complete workflow of the graduation system, including student database management, QR code generation, text-to-speech integration, and the automated graduation ceremony process.*
 
 ---
 
-## **Flutter QR Scanner Demo**
+## **Flutter QR Scanner **
 
-**Watch the full demo**: [Flutter QR Scanner - Full Demo](https://youtube.com/shorts/IslCt-x5fEM)
+**Watch the full demo**: [Flutter QR Scanner ]([https://youtube.com/shorts/IslCt-x5fEM](https://youtube.com/shorts/aE2hJvm88J4?feature=share))
 
 *This video showcases the mobile QR scanner app in action, demonstrating real-time QR code scanning, student information retrieval, and the cross-platform user experience.*
+
+## **Article **
+**Read the full article**: [City University Malaysia created history, organized the first convocation in Malaysia using AIf ](https://shorturl.at/RNUq6)
 
 
 ---
