@@ -100,6 +100,14 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ---
 
+## 🚀 Real-World Impact & Recognition
+
+- **Successfully deployed** for City University Malaysia's historic AI-powered convocation
+- **Featured in Sinar Hararian national news** 
+- **Awarded Industry Excellence Award 2024** for innovation
+- **Full-stack system** handling 2300+ students seamlessly
+
+  
 # 📊 **Project Scale & Impact**
 
 ## **Python Graduation System**
