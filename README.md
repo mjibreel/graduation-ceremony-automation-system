@@ -74,7 +74,7 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ---
 
-# 🎥 **Demo Videos**
+# 🎥 ** Videos **
 
 ## **AI-powered Graduation Ceremony Management System**
 
