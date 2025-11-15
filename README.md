@@ -78,7 +78,7 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ## **AI-powered Graduation Ceremony Management System**
 
-**Watch the full demo***: [AI-powered Graduation Ceremony Management System]((https://youtu.be/1GsUPD9f3OQ))
+**Watch the full demo***: [AI-powered Graduation Ceremony Management System](https://youtu.be/1GsUPD9f3OQ)
 
 *This video demonstrates the complete workflow of the graduation system, including student database management, QR code generation, text-to-speech integration, and the automated graduation ceremony process.*
 
@@ -86,7 +86,7 @@ A modern **mobile QR code scanner application** designed specifically for gradua
 
 ## **Flutter QR Scanner **
 
-**Watch the full demo**: [Flutter QR Scanner ]((https://youtube.com/shorts/aE2hJvm88J4?feature=share))
+**Watch the full demo**: [Flutter QR Scanner](https://youtube.com/shorts/aE2hJvm88J4?feature=share)
 
 *This video showcases the mobile QR scanner app in action, demonstrating real-time QR code scanning, student information retrieval, and the cross-platform user experience.*
 
